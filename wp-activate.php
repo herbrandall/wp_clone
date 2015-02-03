@@ -6,6 +6,8 @@
  * @package WordPress
  */
 
+// another git comment, second file
+
 define( 'WP_INSTALLING', true );
 
 /** Sets up the WordPress Environment. */
