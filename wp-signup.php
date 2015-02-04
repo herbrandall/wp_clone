@@ -3,6 +3,8 @@
 /** Sets up the WordPress Environment. */
 require( dirname(__FILE__) . '/wp-load.php' );
 
+// crazy dev idea branch edit 1
+
 add_action( 'wp_head', 'wp_no_robots' );
 
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
