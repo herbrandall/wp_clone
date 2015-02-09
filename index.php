@@ -23,3 +23,5 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 // back on the main branch
 
 // comment for video demo
+
+// stash this change
